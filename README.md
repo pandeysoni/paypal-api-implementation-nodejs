@@ -1,4 +1,4 @@
-Node-Angular-Boilerplate
+Paypal Api Implementation using node
 
 ### Install an app
 
