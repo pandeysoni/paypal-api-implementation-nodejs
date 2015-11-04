@@ -1,0 +1,25 @@
+{
+  "name": "node-angular-boilerplate",
+  "description": "node angular structure",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "boom": "^2.6.1",
+    "bower": "~1.6.3",
+    "express": "^4.10.6",
+    "mongoose": "3.8.x",
+    "paypal-rest-sdk": "^1.6.3",
+    "request": "^2.44.0"
+  },
+  "author": {
+    "name": "sonipandey",
+    "email": "sonipandey.71@gmail.com"
+  }
+}
